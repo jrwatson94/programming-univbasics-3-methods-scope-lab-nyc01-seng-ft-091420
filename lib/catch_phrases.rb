@@ -5,12 +5,12 @@ end
 
 def toadstool
   status1 = 'Thank You Mario! But Our Princess Is In Another Castle!'
-  puts status
+  puts status1
 end
 
 def link 
   status2 = "It's Dangerous To Go Alone! Take This."
-  puts status
+  puts status2
 end
 
 def all_phrases
